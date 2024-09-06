@@ -1,0 +1,6 @@
+<html>
+    <body>
+        <script type="text/javascript">
+        document.writeln("welcome")</script>
+    </body>
+</html>
